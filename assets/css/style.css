@@ -1,0 +1,37 @@
+body {
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	background: url("../images/background.jpg");
+}
+
+
+
+.jumbotron {
+	margin-bottom: 0px;
+	text-shadow: gray 0.5em 0.5em 0.5em;
+	background-color:lightcoral;
+}
+
+
+#purple {
+	width: 100px;
+	height: 100px;
+	
+}
+
+#blue {
+	width: 100px;
+	height: 100px;
+}
+
+#yellow {
+	width: 100px;
+	height: 100px;
+	margin-bottom: 20px;
+}
+
+#pink {
+	width: 100px;
+	height: 100px;
+}
+
+
